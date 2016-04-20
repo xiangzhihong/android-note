@@ -276,7 +276,7 @@ MVP
 Android中的MVP
 开源项目Philm的MVP架构分析
 一种在android中实现MVP模式的新思路
-​说说Android的MVP模式
+?说说Android的MVP模式
 N
 
 NavigationView
@@ -539,7 +539,7 @@ tools:context=".MainActivity的作用
 关于APK瘦身值得分享的一些经验
 性能优化之数据库优化
 How to check visibility of software keyboard in Android?
-android 4.4.4侧滑退出显示app启动界面 ​
+android 4.4.4侧滑退出显示app启动界面 ?
 How to get a Color from hexadecimal Color String
 【译】Android应用架构
 Android静默安装实现方案，仿360手机助手秒装和智能安装功能
