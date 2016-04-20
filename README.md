@@ -1,10 +1,6 @@
 # android-note
 android开发荣入门到精通
 #note
-学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。
-
-为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。
-
 如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。
 
 当然，这份列表并不完美，如果不幸，这里没有你所踩到的坑，或者对于某个问题你有更好的 Tips，欢迎与大家分享，让我们一起来维护这个项目！
@@ -276,7 +272,7 @@ MVP
 Android中的MVP
 开源项目Philm的MVP架构分析
 一种在android中实现MVP模式的新思路
-?说说Android的MVP模式
+​说说Android的MVP模式
 N
 
 NavigationView
@@ -539,18 +535,10 @@ tools:context=".MainActivity的作用
 关于APK瘦身值得分享的一些经验
 性能优化之数据库优化
 How to check visibility of software keyboard in Android?
-android 4.4.4侧滑退出显示app启动界面 ?
+android 4.4.4侧滑退出显示app启动界面 ​
 How to get a Color from hexadecimal Color String
 【译】Android应用架构
 Android静默安装实现方案，仿360手机助手秒装和智能安装功能
 How to convert a color integer to a hex String in Android?
 IllegalArgumentException: width and height must be > 0 while loading Bitmap from View
 Unable to instantiate application com.android.tools.fd.runtime.BootstrapApplication ?
-Contributors
-
-troyliu0105
-whiskeyfei
-wavever
-nitta-honoka
-jywanghold
-yy1300326388
